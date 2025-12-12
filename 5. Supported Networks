@@ -1,0 +1,12 @@
+5. Supported Networks
+
+Clarinet lets you target different execution environments:
+
+Network	Description
+simnet	Ultra-fast, lightweight local network for unit testing.
+devnet	Docker-based local Stacks + Bitcoin nodes for full integration tests.
+testnet	Public pre-production network for realistic testing.
+mainnet	Live Stacks blockchain for production contracts.
+
+Each network serves a distinct stage in development and deployment. 
+Stacks Documentación
