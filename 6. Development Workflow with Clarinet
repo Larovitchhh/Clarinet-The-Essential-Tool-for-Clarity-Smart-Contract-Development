@@ -1,0 +1,16 @@
+6. Development Workflow with Clarinet
+
+A typical Clarinet workflow looks like:
+
+Initialize a project with clarinet new.
+
+Write your Clarity contracts in the contracts/ folder.
+
+Write tests alongside in the tests/ folder.
+
+Run a local blockchain and test interactions.
+
+Deploy contracts to testnet or mainnet when ready. 
+Stacks Documentación
+
+This structure encourages test-driven smart contract development and ensures your code is robust before real-world usage
