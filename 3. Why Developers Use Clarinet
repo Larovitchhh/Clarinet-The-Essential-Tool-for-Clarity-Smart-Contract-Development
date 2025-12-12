@@ -1,0 +1,15 @@
+3. Why Developers Use Clarinet
+
+When creating smart contracts, developers need confidence that their logic behaves correctly before it goes live. Clarinet enables:
+
+Fast feedback loops through local dev networks.
+
+Immediate contract testing without relying on external testnets.
+
+Iterative debugging with a built-in REPL.
+
+Consistent workflow from initial code to deployment. 
+DEV Community
+
+This is analogous to tools like Hardhat or Truffle in the Ethereum ecosystem — but tailored for Stacks and Clarity. 
+DEV Community
