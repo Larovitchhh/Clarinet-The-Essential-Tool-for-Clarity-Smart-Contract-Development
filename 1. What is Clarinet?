@@ -1,0 +1,6 @@
+1. What is Clarinet?
+
+Clarinet is the go-to development framework for Clarity smart contracts on Stacks. It provides a complete local development environment — including a private blockchain, REPL console, testing framework, and debugging tools — making it the fastest and most productive way to iterate on smart contract code. 
+Stacks Documentación
+
+Clarinet helps reduce development friction by simulating Stacks execution locally and automating common workflows developers face when building onchain logic.
