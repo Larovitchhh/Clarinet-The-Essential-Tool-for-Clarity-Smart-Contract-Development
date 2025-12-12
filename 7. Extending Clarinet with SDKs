@@ -1,0 +1,9 @@
+7. Extending Clarinet with SDKs
+
+Beyond CLI usage, Clarinet also supports integrations like:
+
+Clarinet JS SDK — allows programmatic testing of simnet environments, even in the browser. 
+Stacks Documentación
+
+These extensions broaden how developers can build tooling, automate tests, or even create interactive contract playgrounds without server overhead. 
+Stacks Documentación
