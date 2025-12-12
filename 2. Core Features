@@ -1,0 +1,14 @@
+2. Core Features
+
+Clarinet’s key capabilities include: 
+Stacks Documentación
+
+🔧 Powerful CLI — scaffold new projects, manage contracts, and interact with your code.
+
+🧪 Testing Framework — write unit tests in a familiar environment (JavaScript/TypeScript) and validate contract behavior.
+
+🛠 Private Blockchain — spin up local nodes and miners to test integrations without deploying to public testnets.
+
+📝 VSCode Integration — language support, autocompletion, linters, and interactive debugging for Clarity.
+
+Together, these tools streamline the entire smart contract lifecycle.
